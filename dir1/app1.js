@@ -1,0 +1,1 @@
+console.log('dir 1 - app1.js');
